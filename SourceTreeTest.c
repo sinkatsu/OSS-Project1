@@ -3,7 +3,7 @@
 int main()
 {
   printf("First OSS Code\n");
-  printf("Third OSS Code");
+  printf("Second OSS Code");
 
   return 0;
 }
